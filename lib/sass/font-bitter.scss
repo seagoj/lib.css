@@ -1,0 +1,7 @@
+$font : "Bitter";
+
+@import url("http://fonts.googleapis.com/css?family="+$font);
+
+body, html {
+    font-family: $font;
+}
